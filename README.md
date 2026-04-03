@@ -2,14 +2,14 @@
 Documenting my daily progress in cybersecurity.
 
 ## Learning Focus
--Osint 
--Web Fundamentals 
--Networking Basics
--linux Fundamentals
+- OSINT 
+- Web Fundamentals 
+- Networking Basics
+- Linux Fundamentals
 
 ## Progress
--Day 1: Osnit Challenge (day1-osint.md)
--Day 2: Web basics (day2-web-basics.md)
+- Day 1: [OSINT Challenge](day1-osint.md)
+- Day 2: [Web Application basics](day2-web-basics.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
