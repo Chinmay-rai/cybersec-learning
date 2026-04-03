@@ -1,4 +1,4 @@
-# Day 2 – Web Application 
+# Day 2 – Web Application Basics
 
 ## What I Did
 - Completed TryHackMe Web Application Basics room  
