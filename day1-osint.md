@@ -1,4 +1,4 @@
-# OSINT Challenge – Notes
+# Day 1 - OSINT Challenge 
 
 ## Overview
 Worked through a basic OSINT challenge focused on using publicly available data to extract useful information.
