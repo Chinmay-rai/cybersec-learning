@@ -13,6 +13,7 @@ Documenting my daily progress in cybersecurity.
 - Day 3: [Cookies and Sessions](day3-cookies-sessions.md)
 - Day 4: [Exam Preparation](day4-exam-prep.md)
 - Day 5: [Exam Preparation](day5-exam-prep.md)
+- Day 6: [XSS Introduction](day6-xss-intro.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
