@@ -4,7 +4,7 @@
 - Learned what Cross-Site Scripting (XSS) is  
 - Tried basic payloads like:
   - <script>alert(1)</script>  
-  - <img src="x" onerror="alert(1)">  
+  - `<img src="x" onerror="alert(1)">`  
 
 ## What I Understood
 - XSS allows injecting JavaScript into web pages  
