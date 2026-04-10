@@ -16,6 +16,7 @@ Documenting my daily progress in cybersecurity.
 - Day 6: [XSS Introduction](day6-xss-intro.md)
 - Day 7: [XSS and Its Types](day7-xss-types.md)
 - Day 8: [SQLi Basics](day8-sqli-basics.md)
+- Day 9: [Networking Fundamentals](day9-networking-fundamentals.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
