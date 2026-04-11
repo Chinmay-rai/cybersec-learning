@@ -3,7 +3,7 @@
 ## What I Did
 - Completed Module 1: Communication in a Connected World (Cisco NetAcad)  
 - Learned about how devices communicate and different types of connected systems  
-- Attempted the module quiz (score to be updated)  
+- Completed the module quiz (Score: 100%)  
 
 ## What I Understood
 - Data is transmitted in the form of bits (0s and 1s)  
