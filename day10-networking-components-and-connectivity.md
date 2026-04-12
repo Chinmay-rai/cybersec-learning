@@ -1,8 +1,8 @@
-# Day 10 – Networking (Modules 2–4)
+# Day 10 – Networking components and connectivity (Modules 2–4)
 
 ## What I Did
 - Completed Modules 2 to 4 from Cisco NetAcad  
-- Studied network components, connectivity options, wireless networks, and home network setup  
+- Studied network components, connectivity options, wireless networks, and home network setup (See: [Home Network Configuration](home-network-configuration.md)) 
 - Completed quizzes for each module and the checkpoint exam (score: 95%)
 
 ## What I Understood
