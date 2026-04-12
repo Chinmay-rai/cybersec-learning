@@ -18,6 +18,7 @@ Documenting my daily progress in cybersecurity.
 - Day 8: [SQLi Basics](day08-sqli-basics.md)
 - Day 9: [Networking Fundamentals](day09-networking-fundamentals.md)
 - Day 10: [Networking-Components-and-Connectivity](day10-networking-components-and-connectivity.md)
+- Day 11: [Network Communication and Media](day11-network-communication-and-media.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
