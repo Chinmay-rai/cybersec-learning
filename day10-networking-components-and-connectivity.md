@@ -2,8 +2,8 @@
 
 ## What I Did
 - Completed Modules 2 to 4 from Cisco NetAcad  
-- Studied network components, connectivity options, wireless networks, and home network setup (See: [Home Network Configuration](home-network-configuration.md)) 
-- Completed quizzes for each module and the checkpoint exam (score: 95%)
+- Studied network components, connectivity options, wireless networks, and home network setup (See: [Home Network Configuration]([home-network-configuration.md](https://github.com/Chinmay-rai/packet-tracer-labs/blob/main/home-network-configuration.md))) 
+- Completed quizzes for each module (score: 90%, 100% and 100% respectively) and the checkpoint exam (score: 95%)
 
 ## What I Understood
 - Difference between clients and servers and their roles in a network  
