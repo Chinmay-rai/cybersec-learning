@@ -20,6 +20,7 @@ Documenting my daily progress in cybersecurity.
 - Day 10: [Networking-Components-and-Connectivity](day10-networking-components-and-connectivity.md)
 - Day 11: [Network Communication and Media](day11-network-communication-and-media.md)
 - Day 12: [Access Layer and Ethernet](day12-access-layer-and-ethernet.md)
+- Day 13: [Internet Protocol](day13-internet-protocol-ipv4.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
