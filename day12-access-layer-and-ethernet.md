@@ -1,4 +1,4 @@
-# Day 12 – Access Layer and Ethernet  (Modules 7)
+# Day 12 – Access Layer and Ethernet  (Module 7)
 
 ## What I Did
 - Studied Access Layer concepts from networking
