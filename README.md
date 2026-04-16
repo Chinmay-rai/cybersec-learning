@@ -17,10 +17,11 @@ Documenting my daily progress in cybersecurity.
 - Day 7: [XSS and Its Types](day07-xss-types.md)
 - Day 8: [SQLi Basics](day08-sqli-basics.md)
 - Day 9: [Networking Fundamentals](day09-networking-fundamentals.md)
-- Day 10: [Networking-Components-and-Connectivity](day10-networking-components-and-connectivity.md)
+- Day 10: [Networking Components and Connectivity](day10-networking-components-and-connectivity.md)
 - Day 11: [Network Communication and Media](day11-network-communication-and-media.md)
 - Day 12: [Access Layer and Ethernet](day12-access-layer-and-ethernet.md)
 - Day 13: [Internet Protocol](day13-internet-protocol-ipv4.md)
+- Day 14: [IPv4 Addressing and Network Segmentation](day14-ipv4-addressing-and-network-segmentation.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
