@@ -23,6 +23,7 @@ Documenting my daily progress in cybersecurity.
 - Day 13: [Internet Protocol](day13-internet-protocol-ipv4.md)
 - Day 14: [IPv4 Addressing and Network Segmentation](day14-ipv4-addressing-and-network-segmentation.md)
 - Day 15: [IPv6 Addressing and Coexistence](day15-ipv6-addressing-and-coexistence.md)
+- Day 16: [DHCP and Dynamic Addressing](day16-dhcp-and-dynamic-addressing.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
