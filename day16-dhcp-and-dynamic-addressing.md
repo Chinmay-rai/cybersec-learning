@@ -1,4 +1,4 @@
-# Day 16 – DHCP and Dynamic Addressing
+# Day 16 – DHCP and Dynamic Addressing (Module 11)
 
 ## What I Did
 - Studied static and dynamic IPv4 addressing  
