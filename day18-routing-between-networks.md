@@ -8,7 +8,7 @@
 - Learned how local and remote network communication works  
 - Completed the module quiz (score: 100%)  
 - Completed the checkpoint exam (score: 95%)  
-- Performed a Packet Tracer activity (See: [LAN Configuration](lan-configuration.md)): 
+- Performed a Packet Tracer activity (See: [LAN Configuration](https://github.com/Chinmay-rai/packet-tracer-labs/blob/main/lan-configuration.md)): 
   - Created a LAN with connected devices and hosts  
   - Configured devices with IPv4 addressing  
   - Verified device configuration and connectivity  
