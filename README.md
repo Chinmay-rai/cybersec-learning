@@ -27,6 +27,7 @@ Documenting my daily progress in cybersecurity.
 - Day 15: [IPv6 Addressing and Coexistence](day15-ipv6-addressing-and-coexistence.md)
 - Day 16: [DHCP and Dynamic Addressing](day16-dhcp-and-dynamic-addressing.md)
 - Day 17: [Routing, NAT and ARP](day17-routing-nat-and-arp.md)
+- Day 18: [Routing Between Networks](day18-routing-between-networks.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
