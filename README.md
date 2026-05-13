@@ -1,8 +1,6 @@
 # cybersec-learning
 Documenting my daily progress in cybersecurity.
 
-> ⚠️ Taking a short break due to semester exams. Will be posting inconsistently for the next 1–2 weeks. Will resume normal pace soon.
-
 ## Learning Focus
 - OSINT 
 - Web Fundamentals 
@@ -28,6 +26,7 @@ Documenting my daily progress in cybersecurity.
 - Day 16: [DHCP and Dynamic Addressing](day16-dhcp-and-dynamic-addressing.md)
 - Day 17: [Routing, NAT and ARP](day17-routing-nat-and-arp.md)
 - Day 18: [Routing Between Networks](day18-routing-between-networks.md)
+- Day 19: [TCP, UDP and Port Numbers](day19-tcp-udp-and-port-numbers.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
