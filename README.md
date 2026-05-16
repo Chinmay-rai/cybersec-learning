@@ -29,6 +29,7 @@ Documenting my daily progress in cybersecurity.
 - Day 19: [TCP, UDP and Port Numbers](day19-tcp-udp-and-port-numbers.md)
 - Day 20: [Application Layer Services and Network Testing](day20-application-layer-services-and-network-testing.md)
 - Day 21: [Linux Command Line and Navigation](day21-linux-command-line-and-navigation.md)
+- Day 22: [Linux ls Command and Basic Administration](day22-linux-ls-command-and-basic-administration.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
