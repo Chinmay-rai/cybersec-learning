@@ -32,6 +32,7 @@ Documenting my daily progress in cybersecurity.
 - Day 22: [Linux ls Command and Basic Administration](day22-linux-ls-command-and-basic-administration.md)
 - Day 23: [Linux Permissions and Ownership](day23-linux-permissions-and-ownership.md)
 - Day 24: [Linux File Operations and Viewing Files](day24-linux-file-management-and-utilities.md)
+- Day 25: [Linux grep and Regular Expressions](day25-linux-grep-and-regular-expressions.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
