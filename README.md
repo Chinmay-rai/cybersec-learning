@@ -33,6 +33,7 @@ Documenting my daily progress in cybersecurity.
 - Day 23: [Linux Permissions and Ownership](day23-linux-permissions-and-ownership.md)
 - Day 24: [Linux File Operations and Viewing Files](day24-linux-file-management-and-utilities.md)
 - Day 25: [Linux grep and Regular Expressions](day25-linux-grep-and-regular-expressions.md)
+- Day 26: [Linux Network Configuration and Networking Commands](day26-linux-network-configuration-and-networking-commands.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
