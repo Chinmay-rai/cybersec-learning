@@ -99,4 +99,4 @@ Studied:
 - Linux tools become much more powerful when combined together using pipes and redirection  
 
 ## Next Step
-- Continue learning Linux text processing and system management concepts
+- Learn the fundamentals of system and security logs, then begin exploring SIEM tools 
