@@ -55,4 +55,4 @@
 - User and password management are important system security concepts  
 
 ## Next Step
-- Continue learning Linux system administration and process-related concepts
+- Continue learning Linux redirection and text editor 
