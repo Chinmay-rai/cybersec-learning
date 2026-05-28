@@ -56,4 +56,4 @@
 - Networking fundamentals help make Linux networking tools much easier to understand  
 
 ## Next Step
-- Study Linux process management and process viewing commands
+- Study Package Management and Password Management
