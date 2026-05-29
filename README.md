@@ -36,6 +36,7 @@ Documenting my daily progress in cybersecurity.
 - Day 26: [Linux Network Configuration and Networking Commands](day26-linux-network-configuration-and-networking-commands.md)
 - Day 27: [Linux Package Management and Password Management](day27-linux-package-management-and-password-management.md)
 - Day 28: [Linux Redirection and VI Editor](day28-linux-redirection-and-vi-editor.md)
+- Day 29: [Linux Log Analysis Fundamentals](day29-linux-log-analysis-fundamentals.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
