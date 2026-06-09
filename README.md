@@ -40,6 +40,7 @@ Documenting my daily progress in cybersecurity.
 - Day 29: [Linux Log Analysis Fundamentals](day29-linux-log-analysis-fundamentals.md)
 - Day 30: [Introduction to Splunk](day30-introduction-to-splunk.md)
 - Day 31: [Splunk Fundamentals and Initial Exploration](day31-splunk-fundamentals-and-initial-exploration.md)
+- Day 32: [Splunk Forwarder and Log Ingestion](day32-splunk-forwarder-and-log-ingestion.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
