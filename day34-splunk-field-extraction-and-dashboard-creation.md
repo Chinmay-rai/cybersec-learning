@@ -1,4 +1,4 @@
-# Day 34 – DVWA Log Analysis and Splunk Dashboard Creation
+# Day 34 – Splunk-field-extraction-and-dashboard-creation.md
 
 ## What I Did
 
