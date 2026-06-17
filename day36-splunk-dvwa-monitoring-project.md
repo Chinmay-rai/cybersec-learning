@@ -2,8 +2,6 @@
 
 ## What I Did
 
-## What I Did
-
 - Continued working with my Splunk homelab consisting of Splunk Enterprise, Kali Linux, Apache, DVWA, and a Splunk Universal Forwarder
 
 - Generated web activity by interacting with multiple DVWA vulnerability modules, including:
