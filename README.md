@@ -44,6 +44,7 @@ Documenting my daily progress in cybersecurity.
 - Day 33: [Splunk Log Ingestion and DVWA Traffic Analysis](day33-splunk-log-ingestion-and-dvwa-traffic-analysis.md)
 - Day 34: [Splunk-field-extraction-and-dashboard-creation](day34-splunk-field-extraction-and-dashboard-creation.md)
 - Day 35: [Splunk Investigation of DVWA Web Activity](day35-splunk-investigation-of-dvwa-web-activity.md)
+- Day 36:[Splunk DVWA Monitoring Project](day36-splunk-dvwa-monitoring-project.md)
 
 ## About 
 I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
