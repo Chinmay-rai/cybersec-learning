@@ -2,7 +2,10 @@
 
 ## What I Did
 
+## What I Did
+
 - Continued working with my Splunk homelab consisting of Splunk Enterprise, Kali Linux, Apache, DVWA, and a Splunk Universal Forwarder
+
 - Generated web activity by interacting with multiple DVWA vulnerability modules, including:
   - Brute Force
   - Reflected XSS
@@ -12,7 +15,14 @@
   - Command Injection
 
 - Investigated Apache access logs forwarded to Splunk from the Kali Linux VM
+
 - Used SPL queries to analyze web application activity and log data
+
+- Created a Splunk dashboard to monitor and visualize DVWA activity
+
+- Completed and documented a Splunk-based DVWA monitoring project
+
+- Published the project to a dedicated GitHub repository
 
 ## Log Analysis
 
@@ -37,6 +47,10 @@ Created a Splunk dashboard to visualize:
 - Vulnerability-Related Activity
 
 Used visualizations to monitor and analyze activity generated while interacting with DVWA.
+
+## Project Link
+
+- [DVWA Monitoring Project](https://github.com/Chinmay-rai/splunk-dvwa-monitoring)
 
 ## What I Understood
 
