@@ -1,12 +1,17 @@
 # cybersec-learning
-Documenting my daily progress in cybersecurity.
 
-## Learning Focus
-- OSINT 
-- Web Fundamentals 
-- Networking Basics
-- Linux Fundamentals
-- Splunk
+Documenting my daily cybersecurity learning journey through notes, concepts, and study progress.
+
+## Learning Progression
+
+- ![OSINT](https://img.shields.io/badge/OSINT-✓-success)
+- ![Web Security](https://img.shields.io/badge/Web%20Security-✓-success)
+- ![Networking](https://img.shields.io/badge/Networking-✓-success)
+- ![Linux](https://img.shields.io/badge/Linux-✓-success?logo=linux)
+- ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-✓-success)
+- ![Splunk](https://img.shields.io/badge/Splunk-✓-success?logo=splunk)
+- ![Windows](https://img.shields.io/badge/Windows-In%20Progress-blue?logo=windows)
+- ![Wazuh](https://img.shields.io/badge/Wazuh-Planned-lightgrey)
 
 ## Progress
 - Day 1: [OSINT Challenge](day01-osint.md)
@@ -44,8 +49,11 @@ Documenting my daily progress in cybersecurity.
 - Day 33: [Splunk Log Ingestion and DVWA Traffic Analysis](day33-splunk-log-ingestion-and-dvwa-traffic-analysis.md)
 - Day 34: [Splunk-field-extraction-and-dashboard-creation](day34-splunk-field-extraction-and-dashboard-creation.md)
 - Day 35: [Splunk Investigation of DVWA Web Activity](day35-splunk-investigation-of-dvwa-web-activity.md)
-- Day 36:[Splunk DVWA Monitoring Project](day36-splunk-dvwa-monitoring-project.md)
+- Day 36: [Splunk DVWA Monitoring Project](day36-splunk-dvwa-monitoring-project.md)
+- Day 37: [Windows Processes, Services, and User Information](day37-windows-processes-services-and-user-information.md)
 
-## About 
-I’m currently focusing on building strong fundamentals in cybersecurity by learning concepts and applying them through labs and practical tasks.
-The goal is to stay consistent and gradually move towards real-world security concepts and tools.
+## About
+
+This repository serves as a record of my cybersecurity learning journey. Each entry documents concepts studied, hands-on exercises completed, and projects built while developing practical cybersecurity skills.
+
+The goal is to build a strong foundation in networking, operating systems, log analysis, SIEM technologies, and security operations through consistent learning and hands-on practice.
