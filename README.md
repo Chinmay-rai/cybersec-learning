@@ -51,7 +51,8 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 35: [Splunk Investigation of DVWA Web Activity](day35-splunk-investigation-of-dvwa-web-activity.md)
 - Day 36: [Splunk DVWA Monitoring Project](day36-splunk-dvwa-monitoring-project.md)
 - Day 37: [Windows Processes, Services, and User Information](day37-windows-processes-services-and-user-information.md)
-- Day 38: [ Windows Event Logs and Event Viewer](day38-windows-event-logs-and-event-viewer.md)
+- Day 38: [Windows Event Logs and Event Viewer](day38-windows-event-logs-and-event-viewer.md)
+- Day 39: [Process Creation Events and Process Trees](day39-process-creation-events-and-process-trees.md)
 
 ## About
 
