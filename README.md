@@ -54,6 +54,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 38: [Windows Event Logs and Event Viewer](day38-windows-event-logs-and-event-viewer.md)
 - Day 39: [Process Creation Events and Process Trees](day39-process-creation-events-and-process-trees.md)
 - Day 40: [Windows Command Line, PowerShell, and Persistence](day40-windows-command-line-powershell-and-persistence.md)
+- Day 41: [Sysmon Endpoint Monitoring and Event Logging](day41-sysmon-endpoint-monitoring-and-event-logging.md)
 
 ## About
 
