@@ -56,6 +56,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 40: [Windows Command Line, PowerShell, and Persistence](day40-windows-command-line-powershell-and-persistence.md)
 - Day 41: [Sysmon Endpoint Monitoring and Event Logging](day41-sysmon-endpoint-monitoring-and-event-logging.md)
 - Day 42: [Sysmon Integration and Windows Log Collection](day42-sysmon-integration-and-windows-log-collection.md)
+- Day 43: [Windows Security Log Forwarding with Splunk Universal Forwarder](day43-windows-security-log-forwarding-with-splunk-universal-forwarder.md)
 
 ## About
 
