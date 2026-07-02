@@ -60,6 +60,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 44: [Splunk Processing Language (SPL) Fundamentals](day44-splunk-processing-language-fundamentals.md)
 - Day 45: [SPL Investigation Practice and SOC Scenarios](day45-spl-investigation-practice-and-soc-scenarios.md)
 - Day 46: [SPL Query construction and investigation](day46-spl-query-construction-and-investigation.md)
+- Day 47: [Windows Authentication Investigation with SPL](day47-windows-authentication-investigation-with-spl.md)
 
 ## About
 
