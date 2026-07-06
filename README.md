@@ -63,6 +63,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 47: [Windows Authentication Investigation with SPL](day47-windows-authentication-investigation-with-spl.md)
 - Day 48: [Windows Authentication Incident Investigation](day48-windows-authentication-incident-investigation.md)
 - Day 49: [Investigating a Suspicious PowerShell Incident](day49-investigating-a-suspicious-powershell-incident.md)
+- Day 50: [Endpoint Investigation and Security Alert Triage](day50-endpoint-investigation-and-security-alert-triage.md)
 
 ## About
 
