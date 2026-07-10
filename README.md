@@ -67,6 +67,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 51: [SOC Alert Triage and Incident Reporting](day51-soc-alert-triage-and-incident-reporting.md)
 - Day 52: [SPL Filtering and Investigation Techniques](day52-spl-filtering-and-investigation-techniques.md)
 - Day 53: [SPL Data Enrichment and Anomaly Detection](day53-spl-data-enrichment-and-anomaly-detection.md)
+- Day 54: [Introduction to Endpoint Detection and Response](day54-introduction-to-endpoint-detection-and-response.md)
 
 ## About
 
