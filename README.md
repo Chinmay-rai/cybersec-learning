@@ -71,6 +71,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 55: [SOC Level 2 Role and Investigation Workflow](day55-soc-level2-role-and-investigation-workflow.md)
 - Day 56: [Splunk Search Fundamentals Revisited](day56-splunk-search-fundamentals-revisited.md)
 - Day 57: [Splunk Fields Alerts and Visualizations](day57-splunk-fields-alerts-and-visualizations.md)
+- Day 58: [Working with Time in Splunk](day58-working-with-time-in-splunk.md)
 
 ## About
 
