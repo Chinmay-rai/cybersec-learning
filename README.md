@@ -73,6 +73,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 57: [Splunk Fields Alerts and Visualizations](day57-splunk-fields-alerts-and-visualizations.md)
 - Day 58: [Working with Time in Splunk](day58-working-with-time-in-splunk.md)
 - Day 59: [Statistical Analysis and Value Comparisons in Splunk](day59-statistical-analysis-and-value-comparisons-in-splunk.md)
+- Day 60: [Result Modification, Lookups, and Subsearches](day60-result-modification-lookups-and-subsearches.md)
 
 ## About
 
