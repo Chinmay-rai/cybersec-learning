@@ -76,6 +76,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 60: [Result Modification, Lookups, and Subsearches](day60-result-modification-lookups-and-subsearches.md)
 - Day 61: [Revisiting Splunk Search Expert 101 & 102](day61-revisiting-splunk-search-expert-101-and-102.md)
 - Day 62: [Splunk Search Optimization and Architecture.md](day62-splunk-search-optimization-and-architecture.md)
+- Day 63: [Transactions and Combining Search Results](day63-transactions-and-combining-search-results.md)
 
 ## About
 
