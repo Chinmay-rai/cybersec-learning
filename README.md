@@ -77,6 +77,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 61: [Revisiting Splunk Search Expert 101 & 102](day61-revisiting-splunk-search-expert-101-and-102.md)
 - Day 62: [Splunk Search Optimization and Architecture.md](day62-splunk-search-optimization-and-architecture.md)
 - Day 63: [Transactions and Combining Search Results](day63-transactions-and-combining-search-results.md)
+- Day 64: [Working with Multivalue Fields in Splunk](day64-working-with-multivalue-fields-in-splunk.md)
 
 ## About
 
