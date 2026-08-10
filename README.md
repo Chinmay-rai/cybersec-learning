@@ -11,7 +11,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-✓-success)
 - ![Splunk](https://img.shields.io/badge/Splunk-✓-success?logo=splunk)
 - ![Windows](https://img.shields.io/badge/Windows-✓-success?logo=windows)
-- ![Wazuh](https://img.shields.io/badge/Wazuh-Planned-lightgrey)
+- ![Wazuh](https://img.shields.io/badge/Wazuh-Ongoing-blue)
 
 ## Progress
 - Day 1: [OSINT Challenge](day01-osint.md)
