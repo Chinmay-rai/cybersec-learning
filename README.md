@@ -10,7 +10,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - ![Linux](https://img.shields.io/badge/Linux-✓-success?logo=linux)
 - ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-✓-success)
 - ![Splunk](https://img.shields.io/badge/Splunk-✓-success?logo=splunk)
-- ![Windows](https://img.shields.io/badge/Windows-In%20Progress-blue?logo=windows)
+- ![Windows](https://img.shields.io/badge/Windows-✓-success?logo=windows)
 - ![Wazuh](https://img.shields.io/badge/Wazuh-Planned-lightgrey)
 
 ## Progress
@@ -79,6 +79,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 63: [Transactions and Combining Search Results](day63-transactions-and-combining-search-results.md)
 - Day 64: [Working with Multivalue Fields in Splunk](day64-working-with-multivalue-fields-in-splunk.md)
 - Day 65: [Search Optimization and Splunk Acceleration](day65-search-optimization-and-splunk-acceleration.md)
+- Day 66: [Wazuh SOC Lab Infrastructure Setup](day66-wazuh-soc-lab-infrastructure-setup.md)
 
 ## About
 
