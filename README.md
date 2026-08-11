@@ -80,6 +80,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 64: [Working with Multivalue Fields in Splunk](day64-working-with-multivalue-fields-in-splunk.md)
 - Day 65: [Search Optimization and Splunk Acceleration](day65-search-optimization-and-splunk-acceleration.md)
 - Day 66: [Wazuh SOC Lab Infrastructure Setup](day66-wazuh-soc-lab-infrastructure-setup.md)
+- Day 67: [Windows VM Setup for Wazuh](day67-windows-vm-setup.md)
 
 ## About
 
