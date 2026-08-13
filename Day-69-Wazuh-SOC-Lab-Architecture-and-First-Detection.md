@@ -344,11 +344,8 @@ The core Wazuh SOC pipeline is now operational, and the first controlled Windows
 
 ## Next Step
 
-* [ ] Generate additional Windows security activity
-* [ ] Investigate Wazuh alerts from the Windows endpoint
-* [ ] Explore Wazuh rules and detection logic
-* [ ] Begin investigating authentication and endpoint activity through the Wazuh Dashboard
+* Generate additional Windows security activity
+* Investigate Wazuh alerts from the Windows endpoint
+* Explore Wazuh rules and detection logic
+* Begin investigating authentication and endpoint activity through the Wazuh Dashboard
 
----
-
-**Day 69 Status:** 🟢 **Core Wazuh SOC Pipeline Operational**
