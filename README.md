@@ -82,7 +82,8 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 66: [Wazuh SOC Lab Infrastructure Setup](day66-wazuh-soc-lab-infrastructure-setup.md)
 - Day 67: [Windows VM Setup for Wazuh](day67-windows-vm-setup.md)
 - Day 68: [Wazuh Server Setup](day68-wazuh-server-setup.md)
-- Day 69: [Wazuh SOC Lab Architecture and First Detection](Day-69-Wazuh-SOC-Lab-Architecture-and-First-Detection.md)
+- Day 69: [Wazuh SOC Lab Architecture and First Detection](day69-wazuh-soc-lab-architecture-and-first-detection.md)
+- Day 70: [Wazuh Fundamentals and Initial Exploration](day70-wazuh-fundamentals-and-initial-exploration.md)
 
 ## About
 
