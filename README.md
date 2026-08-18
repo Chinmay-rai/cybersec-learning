@@ -84,6 +84,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 68: [Wazuh Server Setup](day68-wazuh-server-setup.md)
 - Day 69: [Wazuh SOC Lab Architecture and First Detection](day69-wazuh-soc-lab-architecture-and-first-detection.md)
 - Day 70: [Wazuh Fundamentals and Initial Exploration](day70-wazuh-fundamentals-and-initial-exploration.md)
+- Day 71: [Wazuh Agent and Windows Telemetry](day71-wazuh-agent-and-windows-telemetry.md)
 
 ## About
 
