@@ -86,6 +86,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 70: [Wazuh Fundamentals and Initial Exploration](day70-wazuh-fundamentals-and-initial-exploration.md)
 - Day 71: [Wazuh Agent and Windows Telemetry](day71-wazuh-agent-and-windows-telemetry.md)
 - Day 72: [Wazuh Manager, Processes and Logs](day72-wazuh-manager-processes-and-logs.md)
+- Day 73: [Wazuh Event Processing and Rule Chaining](day73-wazuh-event-processing-and-rule-chaining.md)
 
 ## About
 
