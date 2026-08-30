@@ -90,6 +90,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 74: [Wazuh Dashboard and Threat Hunting](day74-wazuh-dashboard-and-threat-hunting.md)
 - Day 75: [Windows Security Logs and Process Monitoring](day75-windows-security-logs-and-process-monitoring.md)
 - Day 76: [PowerShell Telemetry and Command Investigation](day76-powershell-telemetry-and-command-investigation.md)
+- Day 77: [Sysmon, FIM and Windows Persistence](day77-sysmon-fim-and-windows-persistence.md)
 
 ## About
 
