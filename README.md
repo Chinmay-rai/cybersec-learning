@@ -91,6 +91,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 75: [Windows Security Logs and Process Monitoring](day75-windows-security-logs-and-process-monitoring.md)
 - Day 76: [PowerShell Telemetry and Command Investigation](day76-powershell-telemetry-and-command-investigation.md)
 - Day 77: [Sysmon, FIM and Windows Persistence](day77-sysmon-fim-and-windows-persistence.md)
+- Day 78: [Wazuh Custom Rules and Event Correlation](day78-wazuh-custom-rules-and-event-correlation.md)
 
 ## About
 
