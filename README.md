@@ -92,6 +92,7 @@ Documenting my daily cybersecurity learning journey through notes, concepts, and
 - Day 76: [PowerShell Telemetry and Command Investigation](day76-powershell-telemetry-and-command-investigation.md)
 - Day 77: [Sysmon, FIM and Windows Persistence](day77-sysmon-fim-and-windows-persistence.md)
 - Day 78: [Wazuh Custom Rules and Event Correlation](day78-wazuh-custom-rules-and-event-correlation.md)
+- Day 79: [Wazuh Detection Engineering and Rule Tuning](day79-wazuh-detection-engineering-and-rule-tuning.md)
 
 ## About
 
