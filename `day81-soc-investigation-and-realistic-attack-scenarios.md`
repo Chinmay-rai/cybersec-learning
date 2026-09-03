@@ -1,0 +1,51 @@
+# Day 81 – SOC Investigation & Realistic Attack Scenarios
+
+## What I Did
+
+Today I practiced investigating realistic SOC alerts in **Wazuh**, focusing on how an **L1 SOC Analyst** would move from an initial alert to understanding the full activity behind it.
+
+---
+
+## What I Studied
+
+* **SOC Investigation Workflow** — Alert triage, validation, investigation, and escalation.
+* **Alert Triage** — Identifying what triggered an alert and deciding whether it requires attention.
+* **Authentication Investigation** — Analyzing failed logons, source IPs, target accounts, and logon types.
+* **Event Correlation** — Connecting related events across multiple endpoints and timestamps.
+* **Process Investigation** — Examining process trees, parent/child relationships, and command lines.
+* **PowerShell Investigation** — Analyzing suspicious PowerShell execution and encoded commands.
+* **Attack Timeline Analysis** — Reconstructing activity from multiple security events.
+* **Incident Assessment** — Distinguishing between benign, suspicious, and confirmed malicious activity.
+* **L1 SOC Response** — Evidence preservation, procedural containment, documentation, and escalation to L2.
+
+---
+
+## What I Understood
+
+A single alert usually doesn't provide enough context to determine what actually happened.
+
+I practiced correlating **authentication, network, process, and PowerShell events** to build a timeline and understand whether the activity was actually suspicious.
+
+I also understood how an **L1 analyst** should investigate and document an alert before escalating it when deeper analysis or response is required.
+
+---
+
+## Key Takeaways
+
+* Alerts need **context** before they can be accurately classified.
+* **Event correlation** is essential for understanding attack activity.
+* **Process trees** can reveal how suspicious activity originated.
+* Failed authentication does **not automatically mean a successful attack**.
+* L1 analysts focus on **triage, investigation, documentation, evidence preservation, and escalation**.
+
+---
+
+## Next Step
+
+Continue practicing realistic SOC attack scenarios and improve:
+
+* Investigation speed
+* Event correlation
+* Attack timeline reconstruction
+* Incident assessment
+* L1 escalation decisions
